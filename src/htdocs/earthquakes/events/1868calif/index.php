@@ -4,15 +4,12 @@
   //  Last modified: 2017-01-11
   if  (!isset($TEMPLATE))  {
     $TITLE  =  'October 21, 1868 Hayward Fault Earthquake';
-    $HEAD = '
-      <link rel="stylesheet" href="style.css">
-    ';
     $NAVIGATION  = true;
     include  'template.inc.php';
   }
 ?>
 
-<blockquote>
+<blockquote class="alert info no-icon">
 	Because of its location in the heart of the Bay Area, then having a total
 	population of about 260,000, and its magnitude, variously estimated as
 	between 6.8 and 7.0, this earthquake was one of the most destructive in
