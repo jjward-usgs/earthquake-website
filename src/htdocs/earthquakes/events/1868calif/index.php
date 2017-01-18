@@ -50,7 +50,7 @@
 	  quotes from earthquake survivors, and more.</p>
   </li>
   <li>
-    <a href="/regional/nca/simulations/hayward/">
+    <a href="/learn/topics/shakingsimulations/">
       <h3>Hayward Fault Scenario Earthquake Animations</h3>
       <img src="images/hayward.jpg" alt="Map of Hayward and Rodgers Creek faults"/>
     </a>
@@ -58,11 +58,13 @@
 		and Rodgers Creek faults.</p>
   </li>
   <li>
-    <a href="">
-      <h3></h3>
-      <img src="image-file" alt="alt text"/>
+    <a href="/learn/topics/haywardfault/">
+      <h3>Active Traces of the Hayward Fault</h3>
+      <img src="../1906calif/hayward.jpg" alt="Map of Hayward fault"/>
     </a>
-    <p></p>
+    <p>Map showing active fault traces within the Hayward Fault Zone, including
+		a virtual tour of the Hayward fault in the east San Francisco Bay Region
+		that can be viewed in Google Earth&trade;</p>
   </li>
   <li>
     <a href="">
