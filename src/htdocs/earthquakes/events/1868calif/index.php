@@ -139,7 +139,7 @@
 		prepared for the 2000 U.S. Geological Survey Open House.</p>
   </li>
 
-<h2>Also See</h2>
+<h2>More Information Available</h2>
 
   <li>
     <a href="https://www.eeri.org/projects/earthquake-scenarios/hayward-fault-scenario/">
